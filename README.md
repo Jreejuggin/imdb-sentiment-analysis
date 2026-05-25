@@ -1,6 +1,6 @@
 # imdb-sentiment-analysis
 Analysis of IMDB Dataset of 50K Movie Reviews using Convolutional Neural Networks (CNNs)
-# Project Title
+# IMDB Dataset of 50K Movie Reviews
 
 ## Overview
 This project uses Convolutional Neural Networks to classify a positive or negative IMDb movie review.
